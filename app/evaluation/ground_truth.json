@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "question": "What are customers unhappy about?",
+    "expected_keywords": ["slow", "performance", "support", "bug", "issue", "problem", "frustrating"],
+    "description": "General complaints and pain points"
+  },
+  {
+    "id": "q2",
+    "question": "What are the main complaints about customer support?",
+    "expected_keywords": ["support", "response", "wait", "help", "ticket", "agent", "resolve"],
+    "description": "Support-related issues"
+  },
+  {
+    "id": "q3",
+    "question": "Are there any performance issues reported?",
+    "expected_keywords": ["slow", "loading", "performance", "speed", "fast", "time", "freeze"],
+    "description": "Performance-related complaints"
+  },
+  {
+    "id": "q4",
+    "question": "What features are customers requesting?",
+    "expected_keywords": ["feature", "need", "want", "missing", "add", "integration", "export"],
+    "description": "Feature requests and gaps"
+  },
+  {
+    "id": "q5",
+    "question": "Are there any bugs or technical issues?",
+    "expected_keywords": ["bug", "error", "crash", "broken", "fix", "issue", "work"],
+    "description": "Bug reports and technical problems"
+  },
+  {
+    "id": "q6",
+    "question": "What do customers like about the product?",
+    "expected_keywords": ["love", "great", "good", "best", "amazing", "helpful", "easy"],
+    "description": "Positive feedback and strengths"
+  },
+  {
+    "id": "q7",
+    "question": "Are customers satisfied with the pricing?",
+    "expected_keywords": ["price", "cost", "expensive", "cheap", "value", "money", "pay"],
+    "description": "Pricing feedback"
+  },
+  {
+    "id": "q8",
+    "question": "Summarize the top problems with evidence",
+    "expected_keywords": ["problem", "issue", "complaint", "feedback", "customer"],
+    "description": "Overall problem summary"
+  }
+]

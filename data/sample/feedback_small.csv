@@ -1,0 +1,21 @@
+id,customer_name,feedback,category,date,plan,rating
+1,Mike Wilson,Can't upload files larger than 1MB despite 10MB limit shown.,bugs,2025-12-07,professional,3
+2,Lisa Wilson,Competitors offer the same for half the price.,pricing,2025-12-07,basic,2
+3,Lisa Williams,Mobile app is missing half the features of the web version.,missing_features,2025-11-28,basic,1
+4,Mike Smith,Competitors offer the same for half the price.,pricing,2025-12-17,enterprise,1
+5,James Wilson,Performance has degraded significantly since the last update. Very frustrating.,slow_performance,2025-11-08,basic,1
+6,John Miller,Charts display wrong numbers. Totals don't add up.,bugs,2025-12-03,professional,1
+7,Lisa Johnson,Support documentation is outdated and unhelpful.,poor_support,2025-12-02,free,1
+8,Maria Williams,Enterprise pricing is completely out of our budget.,pricing,2025-11-04,basic,2
+9,John Garcia,Recommended this to all my colleagues. They love it too.,positive,2026-01-05,professional,5
+10,Sarah Davis,Been transferred 4 times and still haven't solved my problem.,poor_support,2025-10-16,free,2
+11,Robert Johnson,Pricing is too high for small businesses like ours.,pricing,2025-12-11,enterprise,3
+12,John Miller,The new dashboard is beautiful and so easy to use.,positive,2025-10-20,enterprise,5
+13,Anna Johnson,The mobile app is so slow it's basically unusable.,slow_performance,2025-11-29,free,2
+14,James Jones,Best investment we made this year. ROI has been amazing.,positive,2026-01-02,professional,5
+15,Emily Williams,Need API access on the basic plan. Can't afford enterprise.,missing_features,2025-10-30,basic,2
+16,Robert Davis,Support team resolved my issue in under an hour. Impressed!,positive,2025-12-02,free,5
+17,Mike Johnson,"Monthly billing should be available, not just annual.",pricing,2025-11-05,enterprise,3
+18,Sarah Williams,Had to explain my issue to 5 different agents. Still not resolved.,poor_support,2025-10-20,professional,3
+19,Sarah Jones,Recommended this to all my colleagues. They love it too.,positive,2025-10-28,enterprise,5
+20,James Brown,Feel like I'm paying for features I don't use.,pricing,2025-12-06,free,1

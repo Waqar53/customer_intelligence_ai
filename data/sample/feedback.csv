@@ -1,0 +1,101 @@
+id,customer_name,feedback,category,date,plan,rating
+1,Emily Johnson,Loading data takes forever. This is killing my productivity.,slow_performance,2025-11-14,basic,3
+2,David Davis,Loading data takes forever. This is killing my productivity.,slow_performance,2025-10-17,basic,3
+3,Sarah Wilson,Performance has degraded significantly since the last update. Very frustrating.,slow_performance,2025-12-12,professional,1
+4,Anna Miller,I can't get anyone to help me with my billing issue.,poor_support,2026-01-04,free,2
+5,David Smith,Love this product! Has transformed how our team works.,positive,2025-12-16,enterprise,5
+6,John Wilson,Love this product! Has transformed how our team works.,positive,2025-11-11,free,5
+7,Emily Wilson,The mobile app is so slow it's basically unusable.,slow_performance,2025-11-22,enterprise,1
+8,Robert Davis,Hidden fees for basic features is very disappointing.,pricing,2025-11-11,free,1
+9,Emily Wilson,I can't get anyone to help me with my billing issue.,poor_support,2025-12-14,free,3
+10,John Garcia,Love this product! Has transformed how our team works.,positive,2025-12-03,free,5
+11,John Williams,Loading data takes forever. This is killing my productivity.,slow_performance,2026-01-03,professional,1
+12,Anna Miller,The free tier is too limited to even evaluate the product properly.,pricing,2025-10-29,enterprise,1
+13,Emily Garcia,Email support takes days to respond. Unacceptable for paid plan.,poor_support,2025-10-21,basic,1
+14,Lisa Johnson,Hidden fees for basic features is very disappointing.,pricing,2025-10-26,free,2
+15,Anna Johnson,Finally a product that just works. No complaints.,positive,2025-10-20,free,5
+16,Lisa Williams,Competitors offer the same for half the price.,pricing,2026-01-05,enterprise,2
+17,Maria Brown,Enterprise pricing is completely out of our budget.,pricing,2025-11-24,enterprise,1
+18,Anna Miller,Love this product! Has transformed how our team works.,positive,2025-11-17,professional,5
+19,Maria Brown,Calendar view is missing. Hard to plan without it.,missing_features,2025-12-14,professional,3
+20,Lisa Taylor,Support chat always says 'all agents busy' - what's the point?,poor_support,2025-10-26,professional,2
+21,Lisa Garcia,"Monthly billing should be available, not just annual.",pricing,2025-10-20,enterprise,1
+22,Robert Taylor,Notifications aren't working at all on iOS.,bugs,2025-11-20,professional,1
+23,John Taylor,Found a bug: clicking save sometimes loses all my changes.,bugs,2025-12-05,professional,3
+24,Sarah Smith,Love this product! Has transformed how our team works.,positive,2025-11-03,professional,5
+25,Mike Smith,Pricing is too high for small businesses like ours.,pricing,2025-11-26,professional,2
+26,James Jones,Had to explain my issue to 5 different agents. Still not resolved.,poor_support,2025-11-22,professional,2
+27,Maria Wilson,Please add export to PDF. Excel is not enough for our needs.,missing_features,2025-12-12,free,3
+28,Maria Johnson,Finally a product that just works. No complaints.,positive,2025-11-03,basic,5
+29,Maria Garcia,Pricing is too high for small businesses like ours.,pricing,2025-10-29,free,3
+30,John Williams,Please add export to PDF. Excel is not enough for our needs.,missing_features,2025-12-26,enterprise,3
+31,Robert Smith,Support documentation is outdated and unhelpful.,poor_support,2025-11-17,professional,1
+32,Emily Miller,Response times have gotten worse over the past month.,slow_performance,2025-12-16,basic,3
+33,Emily Johnson,Feel like I'm paying for features I don't use.,pricing,2025-12-18,professional,2
+34,Maria Taylor,Pricing is too high for small businesses like ours.,pricing,2025-10-18,basic,2
+35,Maria Wilson,Love this product! Has transformed how our team works.,positive,2025-10-26,basic,5
+36,Mike Taylor,Competitors offer the same for half the price.,pricing,2025-10-16,free,3
+37,Mike Brown,Performance has degraded significantly since the last update. Very frustrating.,slow_performance,2025-12-18,enterprise,3
+38,Maria Garcia,The export function creates corrupted files half the time.,bugs,2025-11-27,professional,2
+39,Emily Miller,Charts display wrong numbers. Totals don't add up.,bugs,2025-11-04,basic,2
+40,Lisa Garcia,Response times have gotten worse over the past month.,slow_performance,2025-11-30,free,1
+41,David Wilson,The search feature is painfully slow. I can't find anything quickly anymore.,slow_performance,2025-11-27,enterprise,2
+42,Mike Wilson,We really need bulk edit functionality. Processing items one by one is tedious.,missing_features,2025-12-15,enterprise,1
+43,Lisa Jones,Charts display wrong numbers. Totals don't add up.,bugs,2025-10-24,professional,1
+44,Sarah Garcia,Email support takes days to respond. Unacceptable for paid plan.,poor_support,2025-10-24,professional,3
+45,Anna Johnson,Been using this for 2 years and it keeps getting better.,positive,2025-10-30,basic,5
+46,David Miller,"Monthly billing should be available, not just annual.",pricing,2025-11-01,professional,3
+47,Emily Taylor,"Monthly billing should be available, not just annual.",pricing,2025-11-20,professional,1
+48,Robert Garcia,Loading data takes forever. This is killing my productivity.,slow_performance,2025-12-26,basic,3
+49,David Davis,Had to explain my issue to 5 different agents. Still not resolved.,poor_support,2025-11-02,professional,2
+50,James Wilson,Had to explain my issue to 5 different agents. Still not resolved.,poor_support,2025-10-14,professional,2
+51,John Garcia,The search feature is painfully slow. I can't find anything quickly anymore.,slow_performance,2025-11-29,free,2
+52,Lisa Miller,Pricing is too high for small businesses like ours.,pricing,2025-11-08,free,3
+53,Sarah Johnson,The export function creates corrupted files half the time.,bugs,2025-11-26,enterprise,2
+54,John Miller,Loading data takes forever. This is killing my productivity.,slow_performance,2025-12-17,enterprise,3
+55,Mike Taylor,"Monthly billing should be available, not just annual.",pricing,2025-12-02,free,1
+56,Emily Jones,Feel like I'm paying for features I don't use.,pricing,2025-12-12,professional,1
+57,Emily Williams,Can't upload files larger than 1MB despite 10MB limit shown.,bugs,2025-10-19,free,3
+58,John Smith,Been transferred 4 times and still haven't solved my problem.,poor_support,2025-11-23,professional,3
+59,Mike Wilson,Enterprise pricing is completely out of our budget.,pricing,2025-12-31,free,1
+60,Robert Jones,Performance has degraded significantly since the last update. Very frustrating.,slow_performance,2025-12-30,professional,1
+61,John Brown,Hidden fees for basic features is very disappointing.,pricing,2025-12-18,free,3
+62,Mike Garcia,App freezes constantly when I try to export reports.,slow_performance,2026-01-01,free,1
+63,James Davis,Support documentation is outdated and unhelpful.,poor_support,2025-12-14,professional,1
+64,David Johnson,Recommended this to all my colleagues. They love it too.,positive,2025-10-15,basic,5
+65,Anna Davis,Performance has degraded significantly since the last update. Very frustrating.,slow_performance,2025-12-24,basic,2
+66,James Brown,The onboarding experience was smooth and helpful.,positive,2025-10-23,enterprise,5
+67,Robert Miller,Support documentation is outdated and unhelpful.,poor_support,2025-11-14,free,1
+68,John Johnson,Notifications aren't working at all on iOS.,bugs,2025-12-15,enterprise,3
+69,Sarah Jones,The onboarding experience was smooth and helpful.,positive,2025-12-28,enterprise,5
+70,James Johnson,Custom fields would make this product so much better.,missing_features,2025-12-19,free,2
+71,David Miller,The app is extremely slow when loading my dashboard. Takes over 30 seconds!,slow_performance,2025-10-20,professional,1
+72,Emily Johnson,Performance has degraded significantly since the last update. Very frustrating.,slow_performance,2026-01-11,enterprise,3
+73,Mike Johnson,Loading data takes forever. This is killing my productivity.,slow_performance,2025-10-19,basic,1
+74,Anna Taylor,Why did you increase prices by 40% with no new features?,pricing,2025-10-14,professional,2
+75,David Davis,Been using this for 2 years and it keeps getting better.,positive,2025-12-26,enterprise,5
+76,David Brown,Why is there no dark mode? My eyes hurt using this at night.,missing_features,2025-11-30,free,1
+77,Emily Williams,Support documentation is outdated and unhelpful.,poor_support,2025-12-08,enterprise,1
+78,Anna Jones,Support chat always says 'all agents busy' - what's the point?,poor_support,2025-11-02,basic,2
+79,Lisa Williams,Recommended this to all my colleagues. They love it too.,positive,2025-12-17,free,5
+80,Maria Wilson,The onboarding experience was smooth and helpful.,positive,2025-10-21,professional,5
+81,Emily Johnson,Hidden fees for basic features is very disappointing.,pricing,2025-11-16,professional,3
+82,David Jones,Calendar view is missing. Hard to plan without it.,missing_features,2025-11-27,professional,3
+83,Maria Wilson,Been transferred 4 times and still haven't solved my problem.,poor_support,2025-11-13,professional,2
+84,James Garcia,Mobile app is missing half the features of the web version.,missing_features,2025-10-16,basic,3
+85,Maria Garcia,I can't get anyone to help me with my billing issue.,poor_support,2025-10-28,enterprise,3
+86,Robert Smith,The new dashboard is beautiful and so easy to use.,positive,2025-10-21,free,5
+87,John Garcia,Love this product! Has transformed how our team works.,positive,2025-12-17,enterprise,5
+88,John Garcia,Competitors offer the same for half the price.,pricing,2025-10-20,free,1
+89,Robert Jones,"Monthly billing should be available, not just annual.",pricing,2025-11-23,enterprise,3
+90,James Jones,Performance has degraded significantly since the last update. Very frustrating.,slow_performance,2025-12-26,enterprise,1
+91,Robert Davis,The mobile app is so slow it's basically unusable.,slow_performance,2025-10-19,free,1
+92,James Davis,Pricing is too high for small businesses like ours.,pricing,2026-01-02,free,2
+93,Anna Miller,Pricing is too high for small businesses like ours.,pricing,2025-11-09,professional,1
+94,Maria Taylor,Performance has degraded significantly since the last update. Very frustrating.,slow_performance,2025-11-07,enterprise,1
+95,Maria Jones,Enterprise pricing is completely out of our budget.,pricing,2026-01-08,professional,3
+96,Lisa Brown,Need API access on the basic plan. Can't afford enterprise.,missing_features,2025-11-13,free,1
+97,Anna Taylor,Mobile app is missing half the features of the web version.,missing_features,2026-01-07,free,2
+98,Sarah Jones,The free tier is too limited to even evaluate the product properly.,pricing,2025-10-16,professional,1
+99,Emily Wilson,Need API access on the basic plan. Can't afford enterprise.,missing_features,2025-12-12,professional,2
+100,Sarah Jones,Notifications aren't working at all on iOS.,bugs,2025-11-24,professional,2

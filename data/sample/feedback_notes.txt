@@ -1,0 +1,21 @@
+Customer Feedback Collection
+========================================
+
+1. Page load times are unacceptable. I've been waiting minutes for simple actions.
+
+2. Response times have gotten worse over the past month.
+
+3. The app is extremely slow when loading my dashboard. Takes over 30 seconds!
+
+4. Email support takes days to respond. Unacceptable for paid plan.
+
+5. Your support team doesn't seem to understand the product.
+
+6. Had to explain my issue to 5 different agents. Still not resolved.
+
+7. Dropdown menus don't work on Safari browser.
+
+8. Login fails randomly even with correct credentials.
+
+9. Data sync between devices is broken. Seeing old information.
+

@@ -1,0 +1,33 @@
+# Customer Intelligence AI - Dependencies
+# ===========================================
+
+# Web Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# Machine Learning
+scikit-learn==1.4.0
+
+# Embeddings & Vector Store
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+
+# LLM Integration
+openai==1.12.0
+
+# PDF Processing
+PyPDF2==3.0.1
+
+# Configuration
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+httpx==0.26.0
